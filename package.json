@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-test",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@antv/x6": "^1.19.0",
+    "core-js": "^3.9.1",
+    "nuxt": "^2.15.3",
+    "v-click-outside": "^3.1.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "fibers": "^5.0.0",
+    "node-sass": "^5.0.0",
+    "sass": "^1.32.11",
+    "sass-loader": "10"
+  }
+}
